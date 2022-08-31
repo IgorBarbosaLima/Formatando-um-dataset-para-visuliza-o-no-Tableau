@@ -1,0 +1,2 @@
+# Formatando-um-dataset-para-visuliza-o-no-Tableau
+O uso de ferramentas para visualização ganha posição de destaque em um mundo cada vez mais conexo á Ciência de Dados. O Tableau é um Software muito útil para essa finalidade, entretanto, nem sempre os DataSets estão no formato ideal para a visualização adequada.    Nessa postagem  faço a reestruturação do dataset "CO2 Emissions from Fossil Fuels" para a construção de um Dashboard em Tableau.    O dataset "World Energy Comsumptiom" está disponível no Kaggle:
